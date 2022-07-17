@@ -1,6 +1,7 @@
 import React from "react";
 import AltBar from "./altbar";
 import Page from "./page";
+import "./page.css";
 
 function App() {
   return (
